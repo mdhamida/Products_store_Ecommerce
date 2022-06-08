@@ -1,10 +1,15 @@
-# snapshot
+## snapshot of the website
 
 > eCommerce platform built with the MERN stack & Redux.
 
 This is the course project for my [MERN eCommerce From Scratch](https://www.udemy.com/course/mern-ecommerce) course
 
+SNAPSHOT OF THE NAVBAR
 ![screenshot](https://github.com/bradtraversy/proshop_mern/blob/master/uploads/Screen%20Shot%202020-09-29%20at%205.50.52%20PM.png)
+
+
+>SNAPSHOT OF THE PRODUCTS
+
 ![image](https://user-images.githubusercontent.com/88300530/170927877-76b6fdd3-8192-4ae7-846e-7d94a2464ea8.png)
 ![image](https://user-images.githubusercontent.com/88300530/170927944-3408b73a-fd77-4f89-b949-725ec0ffb29d.png)
 
@@ -109,4 +114,4 @@ jane@example.com (Customer)
 
 
 ## License
-
+## THANKS FOR VISITING 
