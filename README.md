@@ -10,7 +10,7 @@ This is the course project for my [MERN eCommerce From Scratch](https://www.udem
 
 # Frontend
 >React.Js
->Bbootstarp
+>Bootstarp
 >Metrial icon
 
 # backend
